@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/teshtemirov" target="blank"><img src="https://img.shields.io/twitter/follow/teshtemirov?logo=twitter&style=for-the-badge" alt="teshtemirov" /></a> </p>
 
-- 🔭 I’m currently working on [Todo-Api](https://github.com/TemurEShtemirov/Todo-Api)
+- 🔭 I’m currently working on [Multi Player Game]([https://github.com/TemurEShtemirov/Todo-Api](https://github.com/TemurEShtemirov/MultiPlayerGame))
 
 - 🌱 I’m currently learning **Nest.js**
 
