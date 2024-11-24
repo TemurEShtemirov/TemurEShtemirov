@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on IshBazar client
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Bun.js**
 
 - 📝 I regularly write articles on [https://t.me/temurbeks_blog](https://t.me/temurbeks_blog)
 
