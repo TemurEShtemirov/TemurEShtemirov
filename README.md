@@ -13,8 +13,6 @@
 
 - 📝 I regularly write articles on [https://t.me/temurbeks_blog](https://t.me/temurbeks_blog)
 
-- 💬 Ask me about **Node.js,HTML,CSS,JS,REACT.JS,TS**
-
 - 📫 How to reach me **temureshtemirov10@gmail.com**
 
 ### Blogs posts
