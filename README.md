@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/teshtemirov" target="blank"><img src="https://img.shields.io/twitter/follow/teshtemirov?logo=twitter&style=for-the-badge" alt="teshtemirov" /></a> </p>
 
-- 🔭 I’m currently working on Library-Naster-Server
-
-- 🌱 I’m currently learning **Bun.js**
+- 🔭 I’m currently working on IshBazar
+- 🌱 I’m currently learning **GO**
 
 - 📝 I regularly write articles on [https://t.me/temurbeks_blog](https://t.me/temurbeks_blog)
 
